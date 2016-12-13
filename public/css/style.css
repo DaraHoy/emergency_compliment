@@ -1,0 +1,14 @@
+html, body, .container {
+    color: white;
+    height: 100%;
+}
+
+.container {
+  font-family: "helvetica";
+  font-weight: 100;
+  font-size: 36px;
+  font-weight: lighter;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
